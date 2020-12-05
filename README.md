@@ -1,4 +1,5 @@
 # UnitedSquare
+<img width="754" alt="UnitedSquare2020" src="https://user-images.githubusercontent.com/70018855/101243846-4c2a2180-3746-11eb-991d-1df9faf73422.png">
 
 Kotlin × JavaFX Doomsday Clock application
 
