@@ -1,7 +1,0 @@
-language: java
-sudo: false
-jdk:
-    - openjdk11
-script:
-    - ./gradlew test
-
