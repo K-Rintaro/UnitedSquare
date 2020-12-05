@@ -1,9 +1,7 @@
----
-dist: trusty
-
 language: java
-
-jdk:
-  - openjdk11
-  
 sudo: false
+jdk:
+    - openjdk11
+script:
+    - ./gradlew test
+
