@@ -27,7 +27,7 @@ class HunHun : Application() {
         theearth.rotate = 23.4
 
         val syuumatsu = Text()
-        syuumatsu.text = "23:58.40"
+        syuumatsu.text = "23:58.20"
         syuumatsu.font = Font.font("Helvetica", 8.0)
         syuumatsu.fill = Color.WHITE
         syuumatsu.layoutX = -13.0
@@ -74,6 +74,7 @@ class HunHun : Application() {
 
         primaryStage?.scene = scene
         primaryStage?.title = "United Square"
+
         primaryStage?.show()
     }
 
