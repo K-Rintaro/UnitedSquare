@@ -9,4 +9,4 @@ This is an application that can display Doomsday Clock.
 
 Doomsday Clock is based on https://thebulletin.org/doomsday-clock/
 
-Latest release: [UnitedSquare 2021](https://github.com/K-Rintaro/UnitedSquare/releases/tag/v1.0.1)
+Latest release: [UnitedSquare 2021](https://github.com/K-Rintaro/UnitedSquare/releases/tag/1.0.1)
